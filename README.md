@@ -33,8 +33,8 @@
 
 ### My Github Stats
 
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NikkkDevvv&theme=react&show_icons=true&hide_border=false&count_private=true" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikkkDevvv&theme=react&hide_border=false" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikkkDevvv&theme=react&show_icons=true&hide_border=false&layout=compact" />
-</div>
