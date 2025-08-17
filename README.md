@@ -30,8 +30,11 @@
 - **AI & Tools:**
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
+
 ### My Github Stats
 
-![NikkkDevvv's Stats](https://github-readme-stats.vercel.app/api?username=NikkkDevvv&theme=react&show_icons=true&hide_border=false&count_private=true)
-![NikkkDevvv's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NikkkDevvv&theme=react&hide_border=false)
-![NikkkDevvv's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikkkDevvv&theme=react&show_icons=true&hide_border=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NikkkDevvv&theme=react&show_icons=true&hide_border=false&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikkkDevvv&theme=react&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikkkDevvv&theme=react&show_icons=true&hide_border=false&layout=compact" />
+</div>
