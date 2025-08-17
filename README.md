@@ -33,3 +33,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikkkDevvv&theme=react&hide_border=false" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikkkDevvv&theme=react&show_icons=true&hide_border=false&layout=compact" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NikkkDevvv/NikkkDevvv/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NikkkDevvv/NikkkDevvv/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NikkkDevvv/NikkkDevvv/output/pacman-contribution-graph.svg">
+</picture>
+
+
+<img src="https://raw.githubusercontent.com/NikkkDevvv/NikkkDevvv/output/snake.svg" alt="Snake animation" />
+
+
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=314vz4l4ziu3wz6yckmrytdziwcq" alt="Spotify recently played"  />
+</div>
