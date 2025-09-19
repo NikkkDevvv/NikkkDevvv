@@ -2,6 +2,8 @@
 
 - 🌱 I am currently learning [**Laravel**](https://laravel.com/) and [**Flutter**](https://flutter.dev/) frameworks.
 
+- 🔥 I am Frontend Dev
+
 - 🏫 I am currently studying at **STMIK Widya Utama**.
 ##
 ### Studying <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
