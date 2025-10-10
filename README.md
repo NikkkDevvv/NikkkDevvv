@@ -1,6 +1,6 @@
 ![Nikk](img/github-header-banner-nikk.png)
 
-- 🌱 I am currently learning [**Laravel**](https://laravel.com/) and [**Flutter**](https://flutter.dev/) frameworks.
+- 🌱 I am currently learning [**React**](https://react.dev/) and [**Flutter**](https://flutter.dev/) frameworks.
 
 - 🏫 I am currently studying at **STMIK Widya Utama**.
 ##
