@@ -23,7 +23,7 @@
 
 ##
 
-### Play With Me!
+<-- ### Play With Me!
 
 ###
 
@@ -43,4 +43,4 @@
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=314vz4l4ziu3wz6yckmrytdziwcq" alt="Spotify recently played"  />
 </div>
 
-###
+### -->
