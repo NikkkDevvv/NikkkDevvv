@@ -30,23 +30,25 @@
 ### My Github Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikkkDevvv&theme=react&show_icons=true&hide_border=false&count_private=true" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikkkDevvv&theme=react&show_icons=true&hide_border=false&layout=compact" />
+  <!-- GANTI GANTI_DENGAN_USERNAME_KAMU sesuai username asli GitHub kamu -->
+  <img src="https://github-readme-stats.vercel.app/api?username=GANTI_DENGAN_USERNAME_KAMU&theme=react&show_icons=true&hide_border=false&count_private=true" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GANTI_DENGAN_USERNAME_KAMU&theme=react&show_icons=true&hide_border=false&layout=compact" />
 </div>
 
 ---
 
 ### Play With Me!
 
+<!-- Jika file pacman.svg dan snake.svg ditaruh di dalam folder repo utama (misal folder 'assets') -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NikkkDevvv/NikkkDevvv/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NikkkDevvv/NikkkDevvv/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NikkkDevvv/NikkkDevvv/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="assets/pacman-contribution-graph.svg">
 </picture>
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/NikkkDevvv/NikkkDevvv/output/snake.svg" alt="Snake animation" />
+<img src="assets/snake.svg" alt="Snake animation" />
 
 ---
 
