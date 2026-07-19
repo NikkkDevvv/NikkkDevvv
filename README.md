@@ -34,10 +34,10 @@
 
 ---
 
-## 📊 Git Profile Trophies
+## 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NikkkDevvv&theme=onedark&column=4&margin-w=15&margin-h=15" alt="NikkkDevvv Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikkkDevvv&theme=react&hide_border=false" alt="NikkkDevvv GitHub Streak" />
 </p>
 
 ---
